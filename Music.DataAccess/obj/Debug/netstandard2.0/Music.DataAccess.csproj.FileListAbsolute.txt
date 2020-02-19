@@ -1,0 +1,13 @@
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/SuperL/Music.DataAccess/bin/Debug/netstandard2.0/Music.DataAccess.deps.json
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/SuperL/Music.DataAccess/bin/Debug/netstandard2.0/Music.DataAccess.dll
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/SuperL/Music.DataAccess/bin/Debug/netstandard2.0/Music.DataAccess.pdb
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/SuperL/Music.DataAccess/bin/Debug/netstandard2.0/Music.Standards.dll
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/SuperL/Music.DataAccess/bin/Debug/netstandard2.0/Music.Standards.pdb
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/SuperL/Music.DataAccess/obj/Debug/netstandard2.0/Music.DataAccess.csprojAssemblyReference.cache
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/SuperL/Music.DataAccess/obj/Debug/netstandard2.0/Music.DataAccess.AssemblyInfoInputs.cache
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/SuperL/Music.DataAccess/obj/Debug/netstandard2.0/Music.DataAccess.AssemblyInfo.cs
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/SuperL/Music.DataAccess/obj/Debug/netstandard2.0/Music.DataAccess.csproj.CopyComplete
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/SuperL/Music.DataAccess/obj/Debug/netstandard2.0/Music.DataAccess.dll
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/SuperL/Music.DataAccess/obj/Debug/netstandard2.0/Music.DataAccess.pdb
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/SuperL/Music.DataAccess/bin/Debug/netstandard2.0/Music.Models.dll
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/SuperL/Music.DataAccess/bin/Debug/netstandard2.0/Music.Models.pdb

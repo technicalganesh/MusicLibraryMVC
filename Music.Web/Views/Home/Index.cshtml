@@ -1,0 +1,28 @@
+﻿@model List<Music.Models.Composer>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <table class="table table-dark">
+        <thead>
+            <tr>
+                <td> Composer Id </td>
+                <td> Composer </td>
+                <td> Contact Number </td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var composer in Model)
+            {
+                <tr>
+                    <td>@composer.Id</td>
+                    <td>@composer.Name</td>
+                    <td>@composer.Phone</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

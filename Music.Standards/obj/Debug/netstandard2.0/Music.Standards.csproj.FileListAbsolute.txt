@@ -1,0 +1,8 @@
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/SuperL/Music.Standards/bin/Debug/netstandard2.0/Music.Standards.deps.json
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/SuperL/Music.Standards/bin/Debug/netstandard2.0/Music.Standards.dll
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/SuperL/Music.Standards/bin/Debug/netstandard2.0/Music.Standards.pdb
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/SuperL/Music.Standards/obj/Debug/netstandard2.0/Music.Standards.csprojAssemblyReference.cache
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/SuperL/Music.Standards/obj/Debug/netstandard2.0/Music.Standards.AssemblyInfoInputs.cache
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/SuperL/Music.Standards/obj/Debug/netstandard2.0/Music.Standards.AssemblyInfo.cs
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/SuperL/Music.Standards/obj/Debug/netstandard2.0/Music.Standards.dll
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/SuperL/Music.Standards/obj/Debug/netstandard2.0/Music.Standards.pdb

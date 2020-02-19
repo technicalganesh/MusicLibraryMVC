@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+@model Music.Models.Composer
+
+<form asp-controller="Home" asp-action="Privacy" method="post" role="form">
+<div class="form-horizantel>
+    <div class="form-group">
+        <label asp-for="Name"/>
+        <input asp-for="Name" type="text" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Phone"/>
+        <input asp-for="Phone" type="text" />
+    </div>
+    <div class="panel">
+        <button type="submit" title="Submit" />
+    </div>
+</div>
+</form>
+
+<h1>@ViewData["Title"]</h1>
+
+<p>Use this page to detail your site's privacy policy.</p>
